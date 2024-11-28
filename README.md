@@ -8,7 +8,7 @@
 </br>
 
 <p align="center">
-  <img src="https://github.com/Blaeste/gifforgeek/blob/main/giphy.webp" alt="animated" />
+  <img src="https://github.com/Blaeste/gifforgeek/blob/main/singe.webp" alt="animated" />
 </p>
 
 <div id="top"></div>
